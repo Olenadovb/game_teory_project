@@ -1,4 +1,4 @@
-# Huang (2006) — Person 1: baseline and individual manipulation
+# Huang (2006) — Baseline and individual manipulation
 
 Copy the files into your existing Git repository root. Requires Python 3.9+ only; no packages or pip installation are necessary.
 
