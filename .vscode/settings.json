@@ -1,0 +1,10 @@
+
+{
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "pylint.args": [
+        "--init-hook=import sys; sys.path.insert(0, 'src')"
+    ]
+}
